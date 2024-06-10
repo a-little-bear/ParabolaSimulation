@@ -1,0 +1,19 @@
+Change background color:
+menu      : Alt+C
+white     : Alt+W
+yellow    : Alt+Y
+light gray: Alt+L
+green     : Alt:G
+	
+Change parabola generate speed:
+menu   : Alt+S
+faster : Left / Down (when focusing)
+slower : Right / Up (when focusing)
+	
+Delete parabola:
+menu   : Alt+D
+  
+Help (others):
+about  : Alt+A
+keys   : Alt+K
+exit   : Alt+Esc
